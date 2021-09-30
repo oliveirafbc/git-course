@@ -1,1 +1,1 @@
-Arquivo da aula de git e github. Atualização file.
+Arquivo da aula de git e github. Atualização file. Editar arquivo readme.
